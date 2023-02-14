@@ -17,7 +17,7 @@ https://salad.com
     "width": 512,
     "height": 512,
     "seed": 3239022079,
-		"num_images_per_prompt": 4 
+    "num_images_per_prompt": 4 
   },
   "callInputs": {
     "PIPELINE": "StableDiffusionPipeline",
